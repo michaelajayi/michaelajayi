@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**michaelajayi/michaelajayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **michaelajayi/michaelajayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <a href="https://app.daily.dev/michaelajayiope"><img src="https://api.daily.dev/devcards/1e057604520e4240a0f7310008e90f4e.png?r=40r" width="400" alt="Michael's Dev Card"/></a>
