@@ -14,5 +14,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<!-- <a href="https://app.daily.dev/michaelajayiope"><img src="https://api.daily.dev/devcards/1e057604520e4240a0f7310008e90f4e.png?r=40r" width="400" alt="Michael's Dev Card"/></a>
- -->
+<a href="https://app.daily.dev/michaelajayi"><img src="https://api.daily.dev/devcards/b619f5d766294212ad96a541cc23d369.png?r=6iu" width="400" alt="Michael Ajayi's Dev Card"/></a>
