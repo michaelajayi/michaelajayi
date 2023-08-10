@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yay, you found your way here 👋
 
 
 <!-- **michaelajayi/michaelajayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
