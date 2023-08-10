@@ -3,7 +3,7 @@
 
 <!-- **michaelajayi/michaelajayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 - 🔭 I’m currently working on: Fintech/Social Banking Backend Service 
 - 🌱 I’m currently learning: DevOps with AWS - ECS, Terraform, Docker/Docker compose, RabbitMQ
 - 👯 I’m looking to collaborate on: Projects (Open source/Personal/Enterprise/Community Projects)
