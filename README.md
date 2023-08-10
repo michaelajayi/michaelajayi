@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him 🧔🏾‍♂️
 - ⚡ Fun fact: Chess when I'm not coding and Blues while I'm at it 🫡
 
+  
+
 <a href="https://app.daily.dev/michaelajayiope"><img src="https://api.daily.dev/devcards/1e057604520e4240a0f7310008e90f4e.png?r=hnb" width="400" alt="Michael's Dev Card"/></a>
