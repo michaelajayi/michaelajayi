@@ -1,18 +1,17 @@
-### Yay, you found your way here 👋
+# Michael O. Ajayi
 
+Backend engineer from Nigeria.
 
-<!-- **michaelajayi/michaelajayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+I enjoy building backend systems, understanding how they work under the hood, and making them easier to evolve over time.
 
-<!-- Here are some ideas to get you started: -->
-- 🔭 I’m currently working on: Fintech/Social Banking Backend Service 
-- 🌱 I’m currently learning: DevOps with AWS - ECS, Terraform, Docker/Docker compose, RabbitMQ
-- 👯 I’m looking to collaborate on: Projects (Open source/Personal/Enterprise/Community Projects)
-- 🤔 I’m looking for help with: DevOps and Micro-service Architectures && Remote/relocation offer
-- 💬 Ask me about: Software Development
-- 📫 How to reach me: ajayimichael@hotmail.com
-- 😄 Pronouns: He/Him 🧔🏾‍♂️
-- ⚡ Fun fact: Chess when I'm not coding and Blues while I'm at it 🫡
+Most of my work has been across fintech and SaaS, where I've worked on backend services, API design, distributed systems, and infrastructure.
 
-  
+Lately I've been spending more time studying the fundamentals behind the tools I use every day, especially Node.js, TypeScript, databases, and distributed systems.
 
-<a href="https://app.daily.dev/michaelajayiope"><img src="https://api.daily.dev/devcards/1e057604520e4240a0f7310008e90f4e.png?r=hnb" width="400" alt="Michael's Dev Card"/></a>
+Outside of work, I write about software engineering, architecture, and the lessons I learn while building systems.
+
+You can find more about my work on my website.
+
+- Website: https://michaelajayi.tech
+- LinkedIn: https://linkedin.com/in/michaelajayi
+- Email: michael@michaelajayi.tech
